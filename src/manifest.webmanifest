@@ -1,8 +1,8 @@
 {
-  "name": "babyfood",
-  "short_name": "babyfood",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "name": "Baby Food",
+  "short_name": "Baby Food",
+  "theme_color": "#ffc6ac",
+  "background_color": "#ffc6ac",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
