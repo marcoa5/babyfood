@@ -24,9 +24,15 @@
               "src/assets",
               "src/manifest.webmanifest"
             ],
-            "styles": [
-              "src/styles.css"
-            ],
+             "styles": [
+				 "src/styles.css",
+				 "./node_modules/uikit/dist/css/uikit.min.css",
+				 "./node_modules/uikit/dist/css/uikit-core.min.css"
+			 ],
+			 "scripts": [
+				 "./node_modules/uikit/dist/js/uikit.min.js",
+				 "./node_modules/uikit/dist/js/uikit-icons.min.js"
+			 ],
             "scripts": []
           },
           "configurations": {
@@ -91,9 +97,15 @@
               "src/assets",
               "src/manifest.webmanifest"
             ],
-            "styles": [
-              "src/styles.css"
-            ],
+             "styles": [
+				 "src/styles.css",
+				 "./node_modules/uikit/dist/css/uikit.min.css",
+				 "./node_modules/uikit/dist/css/uikit-core.min.css"
+			 ],
+			 "scripts": [
+				 "./node_modules/uikit/dist/js/uikit.min.js",
+				 "./node_modules/uikit/dist/js/uikit-icons.min.js"
+			 ],
             "scripts": []
           }
         },
