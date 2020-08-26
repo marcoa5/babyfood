@@ -2,7 +2,7 @@
   "name": "Baby Food",
   "short_name": "Baby Food",
   "theme_color": "#fca983",
-  "background_color": "#fca983",
+  "background_color": "#ffc6ac",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
