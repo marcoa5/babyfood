@@ -1,9 +1,13 @@
-<mat-toolbar style="background-color: bisque; z-index: 1000; box-shadow: 0px 0px 25px 5px black;">
-    <button mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon">
-        <mat-icon>menu</mat-icon>
-    </button>
-    <span>Baby Food</span>
-    <span class="example-spacer"></span>
+<div id="bar">
 
-  </mat-toolbar>
+    <a class="uk-margin-top uk-margin-left" href="#offcanvas-usage" uk-icon="icon: menu; ratio: 1.5" uk-toggle></a>
   
+</div>
+
+<div id="offcanvas-usage" uk-offcanvas>
+  <div class="uk-offcanvas-bar">
+
+      <button class="uk-offcanvas-close" type="button" uk-close></button>
+      <a href="#"><h3>Menu 1</h3></a>
+  </div>
+</div>

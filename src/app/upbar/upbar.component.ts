@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./upbar.component.css']
 })
 export class UpbarComponent implements OnInit {
-
+  showFiller = false;
   constructor() { }
 
   ngOnInit(): void {
